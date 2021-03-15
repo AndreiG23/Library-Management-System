@@ -1,0 +1,32 @@
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.csprojAssemblyReference.cache
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.LoginForm.resources
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.MeniuAdmin.resources
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.MeniuUtilizator.resources
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.RegisterForm.resources
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+F:\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+F:\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+F:\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+F:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+F:\Projects\Library Management System\Library Management System\bin\Debug\Biblioteca.mdf
+F:\Projects\Library Management System\Library Management System\bin\Debug\Biblioteca_log.ldf
+D:\Projects\Library Management System\Library Management System\bin\Debug\Biblioteca.mdf
+D:\Projects\Library Management System\Library Management System\bin\Debug\Biblioteca_log.ldf
+D:\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+D:\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+D:\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.csprojAssemblyReference.cache
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.LoginForm.resources
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.MeniuAdmin.resources
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.MeniuUtilizator.resources
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.RegisterForm.resources
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+D:\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
